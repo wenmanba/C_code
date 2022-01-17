@@ -1,0 +1,14 @@
+﻿生成启动时间为 2022/1/17 14:28:03。
+     1>项目“F:\C_project\C code\渔夫晒网问题\渔夫晒网问题\渔夫晒网问题.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\C_project\C 语言软件\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt code.c
+         code.c
+     1>f:\c_project\c code\渔夫晒网问题\渔夫晒网问题\code.c(12): warning C4101: “k”: 未引用的局部变量
+       Link:
+         F:\C_project\C 语言软件\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\C_project\C code\渔夫晒网问题\Debug\渔夫晒网问题.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\C_project\C code\渔夫晒网问题\Debug\渔夫晒网问题.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\C_project\C code\渔夫晒网问题\Debug\渔夫晒网问题.lib" /MACHINE:X86 Debug\code.obj
+         渔夫晒网问题.vcxproj -> F:\C_project\C code\渔夫晒网问题\Debug\渔夫晒网问题.exe
+     1>已完成生成项目“F:\C_project\C code\渔夫晒网问题\渔夫晒网问题\渔夫晒网问题.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.45
